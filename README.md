@@ -15,4 +15,4 @@ Para executar os testes unitarios do projeto basta ir até a pasta raiz do siste
 
 Após esta configuração prévia você deve copiar os arquivos que contém as frases para a pasta Yellow. <br/>
  Então executar com Python3 o arquivo app.py que está em: Yellow/scr/app.py ex:
- <h5>python3 Yellow/scr/app.py</h5>
+ <h5>python3 scr/app.py</h5>
