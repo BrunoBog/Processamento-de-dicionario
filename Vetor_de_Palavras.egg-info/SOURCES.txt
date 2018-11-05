@@ -1,0 +1,10 @@
+README.md
+setup.py
+Vetor_de_Palavras.egg-info/PKG-INFO
+Vetor_de_Palavras.egg-info/SOURCES.txt
+Vetor_de_Palavras.egg-info/dependency_links.txt
+Vetor_de_Palavras.egg-info/top_level.txt
+src/__init__.py
+src/app.py
+tests/__init__.py
+tests/test_palavras.py
