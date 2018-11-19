@@ -10,9 +10,9 @@ Após instalada a dependência executar no terminal o comando: <br/>
 <h5>python -m nltk.downloader stopwords</h5>
 
 <h2> Testes Unitários </h2>
-Para executar os testes unitarios do projeto basta ir até a pasta raiz do sistema (Yellow) e executar o seguinte comando:<br/>
+Para executar os testes unitarios do projeto basta ir até a pasta raiz do sistema e executar o seguinte comando:<br/>
 <h5>python setup.py test</h5>
 
-Após esta configuração prévia você deve copiar os arquivos que contém as frases para a pasta Yellow. <br/>
- Então executar com Python3 o arquivo app.py que está em: Yellow/scr/app.py ex:
+Após esta configuração prévia você deve copiar os arquivos que contém as frases para a pasta raiz. <br/>
+ Então executar com Python3 o arquivo app.py que está em: scr/app.py ex:
  <h5>python3 scr/app.py</h5>
